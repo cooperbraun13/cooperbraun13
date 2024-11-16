@@ -24,7 +24,7 @@
 
 <hr>
 <div align="center" style="width:100vw;">
- <a href="https://www.oracle.com/java/"><img height="32" width="32" src="https://cdn.simpleicons.org/Java/007396" /></a>&nbsp;
+ <a href="https://www.oracle.com/java/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>&nbsp;
  <a href="https://www.python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Python/3776AB" /></a>&nbsp;
  <a href="http://www.cplusplus.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/C++/00599C" /></a>&nbsp;
  <a href="https://docs.oracle.com/javase/tutorial/uiswing/"><img height="32" width="32" src="https://cdn.simpleicons.org/Oracle/F80000" /></a>&nbsp;
@@ -33,7 +33,7 @@
  <a href="https://reactjs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /></a>&nbsp;
  <a href="https://angular.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/Angular/DD0031" /></a>&nbsp;
  <a href="https://nodejs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/339933" /></a>&nbsp;
- <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img height="32" width="32" src="https://cdn.simpleicons.org/MicrosoftExcel/217346" /></a>&nbsp;
+ <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" /></a>&nbsp;
  <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/JetBrains/F0F0F0" /></a>&nbsp;
  <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/007ACC" /></a>&nbsp;
  <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Git/F05032" /></a>&nbsp;

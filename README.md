@@ -33,8 +33,6 @@
  <a href="https://reactjs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /></a>&nbsp;
  <a href="https://angular.io/"><img height="32" width="32" src="https://cdn.simpleicons.org/Angular/DD0031" /></a>&nbsp;
  <a href="https://nodejs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/339933" /></a>&nbsp;
- <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg" /></a>&nbsp;
  <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/JetBrains/F0F0F0" /></a>&nbsp;
- <a href="https://code.visualstudio.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/VisualStudioCode/007ACC" /></a>&nbsp;
  <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Git/F05032" /></a>&nbsp;
 </div>

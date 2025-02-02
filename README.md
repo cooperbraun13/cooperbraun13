@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: center;">
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=>+Hey!+I%27m+Cooper%2C"/>
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=‎+a+CS+and+Data+Science+student;‎ +a+full-stack+developer;‎ +a+passionate+problem-solver;" />
+  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=%3E+Hey!+I%27m+Cooper," />
+  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=a+CS+and+Data+Science+student;a+full-stack+developer;a+passionate+problem-solver;" />
 </div>
 
 <div style="font-family:Inter;">I am a Computer Science student with a concentration in Data Science at Gonzaga University. I’m passionate about problem-solving through programming, data analysis, and software development. My interests span full-stack development, embedded systems, hardware, and mathematics. Here are some of my favorite projects:

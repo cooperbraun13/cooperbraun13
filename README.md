@@ -3,11 +3,10 @@
   <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=‎ +a+CS+and+Data+Science+student;‎ +a+full-stack+developer;‎ +a+passionate+problem-solver;" />
 </div>
 
-<div style="font-family:Inter;">I am a computer science student with a concentration in Data Science at Gonzaga University. I am passionate about solving complex problems through programming, data analysis, and software development. My expertise spans across full-stack development, data visualization, and object-oriented programming. Here are some of my favorite projects:
+<div style="font-family:Inter;">I am a Computer Science student with a concentration in Data Science at Gonzaga University. I’m passionate about problem-solving through programming, data analysis, and software development. My interests span full-stack development, embedded systems, hardware, and mathematics. Here are some of my favorite projects:
 <ul>
-  <li><a href="https://github.com/cooperbraun13/LinkedLists">LinkedLists</a>: A comprehensive implementation of a singly linked list in C++.</li>
   <li><a href="https://github.com/cooperbraun13/fullstack-cheatsheet">Fullstack Cheatsheet</a>: A beginner-friendly full-stack guide for developers.</li>
-  <li><a href="https://github.com/cooperbraun13">Java Swing Applications</a>: A showcase of GUI-based applications using Java Swing (coming soon!).</li>
+  <li><a href="https://github.com/cooperbraun13">Reaction Time Game</a>: A Circuit Playground game that measures and tracks reaction time.</li>
 </ul>
 </div><br><br>
 

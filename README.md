@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: center;">
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=%3E+Hey!+I%27m+Coop," />
+  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=%3E+Hey!+I%27m+Coop, " />
   <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=a+CS+and+Data+Science+student;a+full-stack+developer;a+passionate+problem-solver;" />
 </div>
 

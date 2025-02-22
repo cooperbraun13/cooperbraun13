@@ -4,26 +4,17 @@
 </div>
 
 ## 👋 About Me
-I am a Computer Science student with a concentration in Data Science at Gonzaga University. My passion lies in **software development, data science, and full-stack engineering**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
-
-🔹 **Areas of Interest:**
-- **Data Science & Machine Learning**: Exploring economic and financial datasets, predictive modeling.
-- **Full-Stack Development**: Building scalable web applications using React, Node.js, and Python.
-- **Embedded Systems & Hardware**: Experimenting with microcontrollers and low-level programming.
-- **Mathematics & Algorithms**: Finding optimal solutions through efficient code.
+I am a Computer Science student with a concentration in Data Science at Gonzaga University. My passion lies in **data science, full-stack development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
 
 ## 🚀 Projects
 Here are some of my favorite projects:
-- [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A **Streamlit-powered web dashboard** that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API. It includes:
-  - 📈 **GDP Growth**
-  - 💹 **Inflation Rate**
-  - 📊 **Unemployment Rate**
+- [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A **Streamlit-powered web dashboard** that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API.
 
 - [**Fullstack Cheatsheet**](https://github.com/cooperbraun13/fullstack-cheatsheet): A beginner-friendly full-stack development guide covering essential web technologies.
 
 - [**Reaction Time Game**](https://github.com/cooperbraun13): A Circuit Playground-based game that measures and tracks reaction time.
 
-## 🛠️ Tech Stack
+## 🤓 Stats
 <table align="center" style="width:100vw; border: none; border-collapse: collapse;">
   <tr>
     <td>

@@ -8,7 +8,7 @@ I am a Computer Science student with a concentration in Data Science at Gonzaga 
 
 ## 🚀 Projects
 Here are some of my favorite projects:
-- [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A **Streamlit-powered web dashboard** that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API.
+- [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A Streamlit-powered web dashboard that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API.
 
 - [**Fullstack Cheatsheet**](https://github.com/cooperbraun13/fullstack-cheatsheet): A beginner-friendly full-stack development guide covering essential web technologies.
 

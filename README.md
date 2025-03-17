@@ -4,13 +4,13 @@
 </div>
 
 ## 👋 About Me
-I am a Computer Science student with a concentration in Data Science at Gonzaga University. My passion lies in **data science, full-stack development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
+I am a Computer Science student with a concentration in Data Science at Gonzaga University. My passion lies in **data science, backend development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
 
 ## 🚀 Projects
 Here are some of my favorite projects:
 - [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A Streamlit-powered web dashboard that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API.
 
-- [**Fullstack Cheatsheet**](https://github.com/cooperbraun13/fullstack-cheatsheet): A beginner-friendly full-stack development guide covering essential web technologies.
+- [**Brawl Snake**](https://github.com/cooperbraun13/Brawl-Snake): A Java application with a GUI, featuring a competitive twist on classic Snake where players grow, avoid collisions, and battle opponents.
 
 - [**Reaction Time Game**](https://github.com/cooperbraun13): A Circuit Playground-based game that measures and tracks reaction time.
 

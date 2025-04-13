@@ -1,40 +1,27 @@
-<div style="display: flex; justify-content: center;">
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=1&pause=2000&color=F7F7F7&repeat=false&width=190&height=80&lines=%3E+Hey!+I%27m+Coop, " />
-  <img style="height: 90px;" class="img" src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=2000&color=FFFFFF&width=550&height=80&lines=a+CS+and+Data+Science+student;a+full-stack+developer;a+passionate+problem-solver;" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;CS+%26+Data+Science+Student;Full-Stack+Developer;Problem+Solver" />
 </div>
 
-## 👋 About Me
-I am a Computer Science student with a concentration in Data Science at Gonzaga University. My passion lies in **data science, backend development, and cloud computing**. I love solving complex problems, building intuitive applications, and analyzing data to derive insights.
+## About Me
+Computer Science student with Data Science concentration at Gonzaga University, passionate about backend development, data analysis, and cloud computing.
 
-## 🚀 Projects
-Here are some of my favorite projects:
-- [**Federal Reverse Economic Data (FRED)**](https://github.com/cooperbraun13/fred-data): A Streamlit-powered web dashboard that fetches and visualizes economic indicators from the Federal Reserve Economic Data (FRED) API.
+## Projects
+- **[FRED Data Dashboard](https://github.com/cooperbraun13/fred-data)** - Streamlit web app visualizing economic indicators from the Federal Reserve API
+- **[Brawl Snake](https://github.com/cooperbraun13/Brawl-Snake)** - Java-based competitive twist on classic Snake with player battles
+- **[Reaction Time Game](https://github.com/cooperbraun13)** - Circuit Playground-based game measuring reaction time
 
-- [**Brawl Snake**](https://github.com/cooperbraun13/Brawl-Snake): A Java application with a GUI, featuring a competitive twist on classic Snake where players grow, avoid collisions, and battle opponents.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cooperbraun13&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
+</div>
 
-- [**Reaction Time Game**](https://github.com/cooperbraun13): A Circuit Playground-based game that measures and tracks reaction time.
+## Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,react,nodejs,git" />
+</div>
 
-## 🤓 Stats
-<table align="center" style="width:100vw; border: none; border-collapse: collapse;">
-  <tr>
-    <td>
-     <img class="img" src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />&nbsp;
-    </td>
-    <td>
-     <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=cooperbraun13&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-### 🔧 Languages & Tools:
-<div align="center" style="width:100vw;">
- <a href="https://www.oracle.com/java/"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /></a>&nbsp;
- <a href="https://www.python.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Python/3776AB" /></a>&nbsp;
- <a href="http://www.cplusplus.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/C++/00599C" /></a>&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img height="32" width="32" src="https://cdn.simpleicons.org/HTML5/E34F26" /></a>&nbsp;
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img height="32" width="32" src="https://cdn.simpleicons.org/CSS3/1572B6" /></a>&nbsp;
- <a href="https://reactjs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/React/61DAFB" /></a>&nbsp;
- <a href="https://nodejs.org/"><img height="32" width="32" src="https://cdn.simpleicons.org/Node.js/339933" /></a>&nbsp;
- <a href="https://www.jetbrains.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/JetBrains/F0F0F0" /></a>&nbsp;
- <a href="https://git-scm.com/"><img height="32" width="32" src="https://cdn.simpleicons.org/Git/F05032" /></a>&nbsp;
+## Connect
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;
+  <a href="mailto:your.email@example.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>&nbsp;
 </div>

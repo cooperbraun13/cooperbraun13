@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;CS+%26+Data+Science+Student;Full-Stack+Developer;Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;" />
 </div>
 
 ## About Me
@@ -22,6 +22,6 @@ Computer Science student with Data Science concentration at Gonzaga University, 
 
 ## Connect
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;
-  <a href="mailto:your.email@example.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/cooper-braun-gu/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;
+  <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>&nbsp;
 </div>

@@ -17,7 +17,7 @@ Computer Science student with Data Science concentration at Gonzaga University, 
 
 ## Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,flask,cpp,html,css,react,go,mysql,git,linux,aws,gcp,docker,kubernetes,githubactions" />
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,js,html,css,react,flask,mysql,git,linux,aws,gcp,docker,kubernetes,githubactions" />
 </div>
 
 ## Connect

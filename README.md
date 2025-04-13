@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;"/>
 </div>
 
 ## About Me
-Computer Science student with Data Science concentration at Gonzaga University, passionate about backend development, data analysis, and cloud computing.
+Computer Science student with Data Science concentration at Gonzaga University, passionate about data analysis, machine learning, and cloud computing.
 
 ## Projects
 - **[FRED Data Dashboard](https://github.com/cooperbraun13/fred-data)** - Streamlit web app visualizing economic indicators from the Federal Reserve API
@@ -17,11 +17,11 @@ Computer Science student with Data Science concentration at Gonzaga University, 
 
 ## Skills
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,html,css,react,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,flask,cpp,html,css,react,go,mysql,git,linux,aws,gcp,docker,kubernetes,githubactions" />
 </div>
 
 ## Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/cooper-braun-gu/"><img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" /></a>&nbsp;
-  <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://cdn.simpleicons.org/gmail/EA4335" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/cooper-braun-gu/"><img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
 </div>

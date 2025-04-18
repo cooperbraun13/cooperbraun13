@@ -22,6 +22,6 @@ Computer Science student with Data Science concentration at Gonzaga University, 
 
 ## Connect
 <div align="center">
-  <a href="https://www.linkedin.com/in/cooper-braun-gu/"><img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/cooper-braun-gu/" target=_blank><img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
   <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
 </div>

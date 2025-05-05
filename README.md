@@ -6,7 +6,7 @@
 Computer Science student with Data Science concentration at Gonzaga University, passionate about data analysis, machine learning, and cloud computing.
 
 ## Projects
-- **[Quantified Self Project](https://github.com/cooperbraun13)** - Analyzes personal financial transactions alongside academic schedules to identify and model relationships between student life events and spending patterns using data cleaning, statistical testing, and machine learning classification
+- **[Quantified Self Project](https://github.com/cooperbraun13/Bank-Data-Analysis)** - Analyzes personal financial transactions alongside academic schedules to identify and model relationships between student life events and spending patterns using data cleaning, statistical testing, and machine learning classification
 - **[Brawl Snake](https://github.com/cooperbraun13/Brawl-Snake)** - Java-based competitive twist on classic Snake with player battles
 - **[Reaction Time Game](https://github.com/cooperbraun13)** - Circuit Playground-based game measuring reaction time
 

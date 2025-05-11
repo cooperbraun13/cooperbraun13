@@ -25,3 +25,7 @@ Computer Science student with Data Science concentration at Gonzaga University, 
   <a href="https://www.linkedin.com/in/cooper-braun-gu/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
   <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
 </div>
+
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cooperbraun13)](https://github.com/cooperbraun13/github-readme-stats)
+</div>

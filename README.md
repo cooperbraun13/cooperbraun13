@@ -3,14 +3,13 @@
 </div>
 
 ## About Me
-Computer Science student with Data Science concentration at Gonzaga University, passionate about data analysis, machine learning, and cloud computing.
-
-**[Personal Website](https://personal-website-six-alpha-83.vercel.app/)**
+Computer Science student with a Data Science concentration at Gonzaga University, passionate about data analysis, machine learning, and cloud computing.
 
 ## Projects
+- **[Personal Website](https://personal-website-six-alpha-83.vercel.app/)** - A dynamic portfolio showcasing my projects, skills, and experience. Built with HTML, CSS, and JS, this site integrates personal insights and highlights my work in data science, software development, and cloud computing.
 - **[Quantified Self Project](https://github.com/cooperbraun13/Bank-Data-Analysis)** - Analyzes personal financial transactions alongside academic schedules to identify and model relationships between student life events and spending patterns using data cleaning, statistical testing, and machine learning classification
 - **[Brawl Snake](https://github.com/cooperbraun13/Brawl-Snake)** - A Java-based multiplayer game built with Swing GUI, featuring real-time collision detection, power-ups, and differing level difficulty. Implements a custom game engine with synchronized game states and dynamic difficulty scaling
-- **[Compound Interest Calculator](https://github.com/cooperbraun13/Compound-Interest-Calculator)** - A Flask-based web application for calculating compound interest with full DevOps implementation including CI/CD, Docker containerization, automated testing, and code quality checks
+- **[Compound Interest Calculator](https://github.com/cooperbraun13/Compound-Interest-Calculator)** - A Flask-based web application for calculating compound interest with full DevOps implementation, including CI/CD, Docker containerization, automated testing, and code quality checks
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />

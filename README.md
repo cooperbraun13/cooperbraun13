@@ -123,8 +123,8 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooperbraun13&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=cooperbraun13&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
 </div>
 
 ## 🔭 Current Focus

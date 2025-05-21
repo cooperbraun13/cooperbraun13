@@ -1,11 +1,10 @@
-<div align="center">
-  <!-- Banner -->
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper&fontSize=80&fontColor=ffffff&animation=fadeIn)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper+Braun&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Cooper Braun Banner"/>
+</p>
 
-  <!-- Typing SVG -->
+<div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
-  <!-- Quick Links -->
   [<img src="https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white" />](https://personal-website-six-alpha-83.vercel.app/)
   [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cooper-braun-gu/)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cooperjbraun13@gmail.com)
@@ -27,7 +26,7 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
 ### Core Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,33 +52,49 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
   <tr>
     <td width="50%">
       <h3 align="center">Personal Website</h3>
-      <a href="https://personal-website-six-alpha-83.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Site-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Site"/>
-      </a>
-      <p align="center">Dynamic portfolio built with HTML, CSS & JS showcasing my projects and skills.</p>
+      <p align="center">
+        <a href="https://personal-website-six-alpha-83.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Site-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Site"/>
+        </a>
+      </p>
+      <p align="center">
+        Dynamic portfolio built with HTML, CSS & JS showcasing my projects and skills.
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">Quantified Self Project</h3>
-      <a href="https://github.com/cooperbraun13/Bank-Data-Analysis" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-      </a>
-      <p align="center">Analyzes personal finance vs academic events using ML classification and statistical testing.</p>
+      <p align="center">
+        <a href="https://github.com/cooperbraun13/Bank-Data-Analysis" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Analyzes personal finance vs academic events using ML classification and statistical testing.
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Brawl Snake</h3>
-      <a href="https://github.com/cooperbraun13/Brawl-Snake" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-      </a>
-      <p align="center">Java multiplayer game with real-time collision, power-ups, and a custom engine.</p>
+      <p align="center">
+        <a href="https://github.com/cooperbraun13/Brawl-Snake" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Java multiplayer game with real-time collision, power-ups, and a custom engine.
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">Compound Interest Calculator</h3>
-      <a href="https://github.com/cooperbraun13/Compound-Interest-Calculator" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-      </a>
-      <p align="center">Flask app for compound interest with CI/CD, Docker, and automated testing.</p>
+      <p align="center">
+        <a href="https://github.com/cooperbraun13/Compound-Interest-Calculator" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+        </a>
+      </p>
+      <p align="center">
+        Flask app for compound interest with CI/CD, Docker, and automated testing.
+      </p>
     </td>
   </tr>
 </table>

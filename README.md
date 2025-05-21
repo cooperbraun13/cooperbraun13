@@ -1,37 +1,107 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Monospace&duration=2000&pause=1000&color=1ac2c4&center=true&width=435&lines=Hey!+I'm+Coop;"/>
+  <!-- Banner -->
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper+Braun&fontSize=80&fontColor=ffffff&animation=fadeIn)
+
+  <!-- Typing SVG -->
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer)](https://git.io/typing-svg)
+
+  <!-- Quick Links -->
+  [<img src="https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white" />](https://personal-website-six-alpha-83.vercel.app/)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cooper-braun-gu/)
+  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cooperjbraun13@gmail.com)
 </div>
 
-## About Me
-Computer Science student with a Data Science concentration at Gonzaga University, passionate about data analysis, machine learning, and cloud computing.
+## 🚀 About Me
+> Computer Science undergrad at Gonzaga University concentrating in Data Science, driven by a passion for data analysis, machine learning, and cloud-native solutions. Currently interning in software engineering and eager to tackle real-world challenges.
 
-## Projects
-- **[Personal Website](https://personal-website-six-alpha-83.vercel.app/)** - A dynamic portfolio showcasing my projects, skills, and experience. Built with HTML, CSS, and JS, this site integrates personal insights and highlights my work in data science, software development, and cloud computing.
-- **[Quantified Self Project](https://github.com/cooperbraun13/Bank-Data-Analysis)** - Analyzes personal financial transactions alongside academic schedules to identify and model relationships between student life events and spending patterns using data cleaning, statistical testing, and machine learning classification
-- **[Brawl Snake](https://github.com/cooperbraun13/Brawl-Snake)** - A Java-based multiplayer game built with Swing GUI, featuring real-time collision detection, power-ups, and differing level difficulty. Implements a custom game engine with synchronized game states and dynamic difficulty scaling
-- **[Compound Interest Calculator](https://github.com/cooperbraun13/Compound-Interest-Calculator)** - A Flask-based web application for calculating compound interest with full DevOps implementation, including CI/CD, Docker containerization, automated testing, and code quality checks
+<details>
+<summary><b>🔍 More about me</b></summary>
+<br>
+I have hands-on experience in backend development with Spring Boot, RESTful APIs, and containerized deployments. I love designing data pipelines, performing exploratory data analysis, and deploying scalable applications on AWS and GCP. In my free time, I experiment with game development in Java and build tooling projects to automate everyday tasks.
+</details>
+
+## 🛠️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=transparent&hide_rank=true&text_color=FFFFFF&title_color=1ac2c4&icon_color=1ac2c4&hide_border=true" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=cooperbraun13&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
+
+### Core Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Data & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-FEA800?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
 </div>
 
-## Skills
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,js,html,css,react,flask,mysql,git,linux,aws,gcp,docker,kubernetes,githubactions" />
-</div>
-
-## Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/cooper-braun-gu/" target="_blank" rel="noopener noreferrer"><img height="32" width="32" src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;
-  <a href="mailto:cooperjbraun13@gmail.com"><img height="32" width="32" src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;
-</div>
+## 💼 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=cooperbraun13&layout=pie&theme=dark&hide_border=true"
-      alt="Top Languages"
-    />
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Personal Website</h3>
+      <a href="https://personal-website-six-alpha-83.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Site-1ac2c4?style=for-the-badge&logo=safari&logoColor=white" alt="Live Site"/>
+      </a>
+      <p align="center">Dynamic portfolio built with HTML, CSS & JS showcasing my projects and skills.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Quantified Self Project</h3>
+      <a href="https://github.com/cooperbraun13/Bank-Data-Analysis" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+      </a>
+      <p align="center">Analyzes personal finance vs academic events using ML classification and statistical testing.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Brawl Snake</h3>
+      <a href="https://github.com/cooperbraun13/Brawl-Snake" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+      </a>
+      <p align="center">Java multiplayer game with real-time collision, power-ups, and a custom engine.</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Compound Interest Calculator</h3>
+      <a href="https://github.com/cooperbraun13/Compound-Interest-Calculator" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-171515?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+      </a>
+      <p align="center">Flask app for compound interest with CI/CD, Docker, and automated testing.</p>
+    </td>
+  </tr>
+</table>
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cooperbraun13&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cooperbraun13&layout=compact&langs_count=8&theme=dark&hide_border=true" />
+</div>
+
+## 🔭 Current Focus
+
+- Implementing backend microservices with Spring Boot and Docker  
+- Building secure REST APIs and integrating JWT authentication  
+- Exploring advanced ML models for predictive analytics  
+- Contributing to open-source data science tools  
+- Preparing for summer SWE internship at a hardware company  
+
+<div align="center">
+  <a href="https://github.com/cooperbraun13/cooperbraun13/issues/new?template=collaboration-request.md">
+    <img src="https://img.shields.io/badge/Collaborate-1ac2c4?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate"/>
   </a>
 </div>

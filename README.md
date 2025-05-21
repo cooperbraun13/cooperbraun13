@@ -8,7 +8,7 @@
 
   <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;"
     alt="Dynamic typing animation"
   />
 

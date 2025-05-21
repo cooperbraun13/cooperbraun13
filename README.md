@@ -1,47 +1,24 @@
-<!-- at the very top of README.md -->
+<div align="center">
 
-<!-- ———————————————— -->
-<!--      BANNER (Capsule Render)      -->
-<!-- ———————————————— -->
-<p align="center">
+  <!-- Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?\
-type=waving\
-&color=%231ac2c4,%230071ad\
-&height=250\
-&section=header\
-&text=Cooper%20Braun\
-&fontSize=80\
-&fontColor=ffffff\
-&animation=twinkling\
-&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=%231ac2c4,%230071ad&height=250&section=header&text=Cooper%20Braun&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35"
     alt="Cooper Braun Banner"
   />
-</p>
 
-<!-- ————————————————————— -->
-<!--    TYPING ANIMATION     -->
-<!-- ————————————————————— -->
-<p align="center">
+  <!-- Typing animation -->
   <img
-    src="https://readme-typing-svg.demolab.com?\
-font=JetBrains+Mono\
-&size=24\
-&duration=3000\
-&pause=1000\
-&color=FFFFFF\
-&background=00000000\
-&center=true\
-&vCenter=true\
-&multiline=true\
-&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer"
     alt="Dynamic typing animation"
   />
-</p>
 
-  [<img src="https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white" />](https://personal-website-six-alpha-83.vercel.app/)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/cooper-braun-gu/)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:cooperjbraun13@gmail.com)
+  <br/>
+
+  <!-- Social badges -->
+  [![Portfolio](https://img.shields.io/badge/Portfolio-1ac2c4?style=for-the-badge&logo=About.me&logoColor=white)](https://personal-website-six-alpha-83.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cooper-braun-gu/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cooperjbraun13@gmail.com)
+
 </div>
 
 ## 🚀 About Me

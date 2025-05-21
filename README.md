@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Banner -->
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper+Braun&fontSize=80&fontColor=ffffff&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper&fontSize=80&fontColor=ffffff&animation=fadeIn)
 
   <!-- Typing SVG -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&lines=Computer+Science+Student;Data+Science+Enthusiast;Cloud+Computing+Lover;Aspiring+Software+Engineer)](https://git.io/typing-svg)

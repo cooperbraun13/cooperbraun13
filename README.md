@@ -2,7 +2,7 @@
 
   <!-- Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=%231ac2c4,%230071ad&height=250&section=header&text=Cooper%20Braun&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=%231ac2c4,%230071ad&height=250&section=header&text=Cooper%20Braun&fontSize=80&fontColor=ffffff&animation=fontAlignY=35"
     alt="Cooper Braun Banner"
   />
 

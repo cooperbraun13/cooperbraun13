@@ -44,11 +44,18 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-### Data & DevOps
+### Databases & APIs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-FEA800?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -111,25 +118,6 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
   </tr>
 </table>
 </div>
-
-## 📚 Learning Resources
-
-### Language & Framework Tutorials
-- **HTML**: [W3Schools HTML tutorial](https://www.w3schools.com/html/)  
-- **CSS**: [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp)  
-- **Responsive Web Design**: [W3Schools Responsive Design](https://www.w3schools.com/html/html_responsive.asp)  
-- **TypeScript**: [TypeScript Tutorial](https://www.typescripttutorial.net/) · [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)  
-- **SQL**: [W3Schools SQL tutorial](https://www.w3schools.com/sql/default.asp)  
-- **NoSQL (MongoDB)**: [MongoDB tutorial](https://www.w3schools.com/mongodb/index.php) · [MongoDB CRUD docs](https://www.mongodb.com/docs/manual/crud/)  
-- **REST API (Node/Express)**: [REST API tutorial (YouTube)](https://www.youtube.com/watch?v=_7UQPve99r4)  
-- **React.js**: [React docs](https://react.dev/learn) · [React tutorial (YouTube)](https://www.youtube.com/watch?v=SqcY0GlETPk)  
-- **Next.js**: [Next.js docs](https://nextjs.org/docs) · [Next.js tutorial (YouTube)](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)  
-- **GraphQL**: [GraphQL tutorial](https://graphql.org/learn/) · [GraphQL vs REST](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/)  
-
-### Full-Stack Example Projects
-- **MERN Stack (Beginner)**: [MERN Full-Stack Tutorial](https://www.youtube.com/watch?v=eJ3YysWaP_A)  
-- **SQL + React + Express**: [Full-Stack SQL/React/Express](https://www.youtube.com/watch?v=fPuLnzSjPLE)  
-- **MERN Stack (Advanced)**: [Complex MERN Tutorial](https://www.youtube.com/watch?v=MpQbwtSiZ7E)  
 
 ## 📊 GitHub Analytics
 

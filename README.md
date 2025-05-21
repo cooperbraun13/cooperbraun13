@@ -1,5 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1ac2c4&height=200&section=header&text=Cooper+Braun&fontSize=80&fontColor=ffffff&animation=fadeIn" alt="Cooper Braun Banner"/>
+  <img
+    src="https://capsule-render.vercel.app/api?\
+type=waving\
+&color=%231ac2c4,%230071ad\
+&height=250\
+&section=header\
+&text=Cooper+Braun\
+&fontSize=80\
+&fontColor=ffffff\
+&animation=twinkling\
+&fontAlignY=35"
+    alt="Cooper Braun Banner"
+  />
 </p>
 
 <div align="center">
@@ -58,7 +70,7 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
         </a>
       </p>
       <p align="center">
-        Dynamic portfolio built with HTML, CSS & JS showcasing my projects and skills.
+        Dynamic portfolio built with HTML, CSS &amp; TypeScript showcasing my projects and skills.
       </p>
     </td>
     <td width="50%">
@@ -99,6 +111,25 @@ I have hands-on experience in backend development with Spring Boot, RESTful APIs
   </tr>
 </table>
 </div>
+
+## 📚 Learning Resources
+
+### Language & Framework Tutorials
+- **HTML**: [W3Schools HTML tutorial](https://www.w3schools.com/html/)  
+- **CSS**: [W3Schools CSS tutorial](https://www.w3schools.com/css/default.asp)  
+- **Responsive Web Design**: [W3Schools Responsive Design](https://www.w3schools.com/html/html_responsive.asp)  
+- **TypeScript**: [TypeScript Tutorial](https://www.typescripttutorial.net/) · [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)  
+- **SQL**: [W3Schools SQL tutorial](https://www.w3schools.com/sql/default.asp)  
+- **NoSQL (MongoDB)**: [MongoDB tutorial](https://www.w3schools.com/mongodb/index.php) · [MongoDB CRUD docs](https://www.mongodb.com/docs/manual/crud/)  
+- **REST API (Node/Express)**: [REST API tutorial (YouTube)](https://www.youtube.com/watch?v=_7UQPve99r4)  
+- **React.js**: [React docs](https://react.dev/learn) · [React tutorial (YouTube)](https://www.youtube.com/watch?v=SqcY0GlETPk)  
+- **Next.js**: [Next.js docs](https://nextjs.org/docs) · [Next.js tutorial (YouTube)](https://www.youtube.com/watch?v=ZVnjOPwW4ZA)  
+- **GraphQL**: [GraphQL tutorial](https://graphql.org/learn/) · [GraphQL vs REST](https://aws.amazon.com/compare/the-difference-between-graphql-and-rest/)  
+
+### Full-Stack Example Projects
+- **MERN Stack (Beginner)**: [MERN Full-Stack Tutorial](https://www.youtube.com/watch?v=eJ3YysWaP_A)  
+- **SQL + React + Express**: [Full-Stack SQL/React/Express](https://www.youtube.com/watch?v=fPuLnzSjPLE)  
+- **MERN Stack (Advanced)**: [Complex MERN Tutorial](https://www.youtube.com/watch?v=MpQbwtSiZ7E)  
 
 ## 📊 GitHub Analytics
 

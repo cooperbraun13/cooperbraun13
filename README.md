@@ -22,13 +22,7 @@
 </div>
 
 ## 🚀 About Me
-> Computer Science undergrad at Gonzaga University concentrating in Data Science, driven by a passion for data analysis, machine learning, and cloud-native solutions. Currently interning in software engineering and eager to tackle real-world challenges.
-
-<details>
-<summary><b>🔍 More about me</b></summary>
-<br>
-I have hands-on experience in backend development with Spring Boot, RESTful APIs, and containerized deployments. I love designing data pipelines, performing exploratory data analysis, and deploying scalable applications on AWS and GCP. In my free time, I experiment with game development in Java and build tooling projects to automate everyday tasks.
-</details>
+Computer Science undergrad at Gonzaga University with a concentration in Data Science, interested in machine learning and cloud-native solutions. I like building useful websites in my free time.
 
 ## 🛠️ Tech Arsenal
 

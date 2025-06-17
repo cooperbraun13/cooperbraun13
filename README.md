@@ -118,14 +118,6 @@ Computer Science undergrad at Gonzaga University with a concentration in Data Sc
   <img src="http://github-readme-streak-stats.herokuapp.com?user=cooperbraun13&background=FFFFFF00&ring=1ac2c4&fire=1ac2c4&currStreakLabel=1ac2c4&theme=dark&hide_border=true" />
 </div>
 
-## 🔭 Current Focus
-
-- Implementing backend microservices with Spring Boot and Docker  
-- Building secure REST APIs and integrating JWT authentication  
-- Exploring advanced ML models for predictive analytics  
-- Contributing to open-source data science tools  
-- Preparing for summer SWE internship at a hardware company  
-
 <div align="center">
   <a href="https://github.com/cooperbraun13/cooperbraun13/issues/new?template=collaboration-request.md">
     <img src="https://img.shields.io/badge/Collaborate-1ac2c4?style=for-the-badge&logo=github&logoColor=white" alt="Collaborate"/>

@@ -22,7 +22,7 @@
 </div>
 
 ## 🚀 About Me
-Computer Science undergrad at Gonzaga University with a concentration in Data Science, interested in machine learning and cloud-native solutions. I like building useful websites in my free time.
+Computer Science undergrad at Gonzaga University with a concentration in Data Science, interested in machine learning and cloud-native solutions.
 
 ## 🛠️ Tech Arsenal
 

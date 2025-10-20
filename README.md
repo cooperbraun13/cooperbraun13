@@ -14,7 +14,7 @@ I'm a junior at Gonzaga University studying Computer Science. My interests and f
 [![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css)](https://skillicons.dev)
 
 ### Libraries & Frameworks
-[![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,flask,sklearn,mat)](https://skillicons.dev)
+[![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,sklearn,mat)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Libraries & Frameworks](https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,postgres,prisma,postman,linux)](https://skillicons.dev)
+[![Libraries & Frameworks](https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod)](https://skillicons.dev)

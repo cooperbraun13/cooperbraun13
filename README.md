@@ -1,28 +1,31 @@
-## Hi, I'm Cooper!
+## Hi, I'm Cooper!  
+<img src="/mnt/data/98bb0bd9-5c3d-4068-8351-53f203170e12.png" height="80"/>
 
-<img src="https://i.gifer.com/Y3il.gif" height="80"/>
+I'm a junior at Gonzaga University studying Computer Science. I love backend development, security, and networking.
 
-I'm currently a junior at Gonzaga University studying Computer Science. I love building backend systems and working with security + networking.
+### What I'm doing
+- Research assistant for Gonzaga's Institute for Informatics and Applied Science (analytics + applied ML)
+- Incoming Implementation Consultant Intern at FAST Enterprises this summer
 
-Here's some things I've been up to:
+---
 
-* Research assistant for Gonzaga's Institute for Informatics and Applied Science focusing on analytics and applied ML
-* Incoming Implementation Consultant Intern at FAST Enterprises this summer
-
-Feel free to peek around my repos or reach out!
-
-*How to reach me:*
-
+### How to reach me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/cooper-braun-gu/)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:cooperjbraun13@gmail.com)
 
-*Tech Arsenal*
+---
 
-### Languages
+### Tech Arsenal  
+
+**Languages**  
 [![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css)](https://skillicons.dev)
 
-*Libraries & Frameworks*
+**Libraries & Frameworks**  
 [![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,sklearn,mat)](https://skillicons.dev)
 
-*Tools & Platforms*
-[![Libraries & Frameworks](https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod)](https://skillicons.dev)
+**Tools & Platforms**  
+[![Tools & Platforms](https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod)](https://skillicons.dev)
+
+---
+
+Thanks for checking out my page — always building, always learning 😄

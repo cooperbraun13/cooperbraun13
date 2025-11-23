@@ -1,6 +1,6 @@
 ## Hi, I'm Cooper!
 
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/154d8793-ccb4-4018-99a4-b853d3c4d297" />
+![turtle gif](https://i.gifer.com/Y3il.gif)
 
 
 I'm a junior at Gonzaga University studying Computer Science. My interests and focuses lie in analytics, machine learning, and backend development.

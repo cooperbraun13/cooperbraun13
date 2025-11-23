@@ -1,9 +1,9 @@
 ## Hi, I'm Cooper!  
-<img src="/mnt/data/98bb0bd9-5c3d-4068-8351-53f203170e12.png" height="80"/>
+<img src="https://i.gifer.com/Y3il.gif" height="80"/>
 
 I'm a junior at Gonzaga University studying Computer Science. I love backend development, security, and networking.
 
-### What I'm doing
+### What I've been up to
 - Research assistant for Gonzaga's Institute for Informatics and Applied Science (analytics + applied ML)
 - Incoming Implementation Consultant Intern at FAST Enterprises this summer
 

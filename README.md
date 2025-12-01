@@ -18,13 +18,13 @@ I'm a junior at Gonzaga University studying Computer Science. I love backend dev
 ### Tech Arsenal  
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,go,cpp,js,html,css)](https://skillicons.dev)
 
 **Libraries & Frameworks**  
 [![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,sklearn,mat)](https://skillicons.dev)
 
 **Tools & Platforms**  
-[![Tools & Platforms](https://skillicons.dev/icons?i=docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod,supabase)](https://skillicons.dev)
 
 ---
 

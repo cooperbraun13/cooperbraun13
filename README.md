@@ -24,7 +24,7 @@ I'm a junior at Gonzaga University studying Computer Science. I love backend dev
 [![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,sklearn,mat)](https://skillicons.dev)
 
 **Tools & Platforms**  
-[![Tools & Platforms](https://skillicons.dev/icons?i=git,docker,githubactions,aws,gcp,postgres,prisma,postman,linux,zod,supabase)](https://skillicons.dev)
+[![Tools & Platforms](https://skillicons.dev/icons?i=git,docker,githubactions,aws,gcp,postgres,prisma,postman,linux,supabase)](https://skillicons.dev)
 
 ---
 

@@ -1,7 +1,7 @@
 ## Hi, I'm Cooper!  
 <img src="https://i.gifer.com/Y3il.gif" height="80"/>
 
-I'm a junior at Gonzaga University studying Computer Science. I love backend development, security, and networking.
+I'm a junior at Gonzaga University studying Computer Science. I love backend development, security, and digging into low-level systems.
 
 ### What I've been up to
 - Research assistant for Gonzaga's Institute for Informatics and Applied Science (analytics + applied ML)

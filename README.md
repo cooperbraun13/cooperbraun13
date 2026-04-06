@@ -1,10 +1,10 @@
 ## Hi, I'm Cooper!  
 <img src="https://i.gifer.com/Y3il.gif" height="80"/>
 
-I'm a junior at Gonzaga University studying Computer Science. I love backend development, security, and digging into low-level systems.
+I'm a junior at Gonzaga University studying Computer Science. I'm interested in backend development and shipping secure, quality products.
 
 ### What I've been up to
-- Research assistant for Gonzaga's Institute for Informatics and Applied Science (analytics + applied ML)
+- Research assistant for Gonzaga's Institute for Informatics and Applied Science
 - Incoming Implementation Consultant Intern at FAST Enterprises this summer
 
 ---
@@ -18,7 +18,7 @@ I'm a junior at Gonzaga University studying Computer Science. I love backend dev
 ### Tech Arsenal  
 
 **Languages**  
-[![Languages](https://skillicons.dev/icons?i=ts,go,cpp,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,go,py,js,html,css)](https://skillicons.dev)
 
 **Libraries & Frameworks**  
 [![Libraries & Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,nextjs,flask,sklearn,mat)](https://skillicons.dev)
@@ -27,5 +27,3 @@ I'm a junior at Gonzaga University studying Computer Science. I love backend dev
 [![Tools & Platforms](https://skillicons.dev/icons?i=git,docker,githubactions,aws,gcp,postgres,prisma,postman,linux,supabase)](https://skillicons.dev)
 
 ---
-
-Thanks for checking out my page — always building, always learning 😄
